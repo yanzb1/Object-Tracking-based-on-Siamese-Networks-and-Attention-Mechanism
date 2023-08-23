@@ -109,10 +109,6 @@ venv.bak/
 # VS Code
 .vscode
 
-testing_dataset/
-training_dataset/
-experiments/
-pretrained_models/
 
 
 tools/logs
